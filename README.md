@@ -1,3 +1,3 @@
 # cmpe272_jenkins 
 
-testing jenkins
+testing jenkin
