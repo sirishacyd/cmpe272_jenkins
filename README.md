@@ -1,11 +1,11 @@
 ### CMPE 272 - HW-5 Jenkins
-* Team Name: Spartan Devs
-* Team Members:
- Bhavya Hegde - 016656029
- Darshini Venkatesha Murthy Nag - 016668951
- Sirisha Polisetty - 016012477
+Team Name: Spartan Devs <br/>
+Team Members: <br/>
+Bhavya Hegde - 016656029 <br/>
+Darshini Venkatesha Murthy Nag - 016668951 <br/>
+Sirisha Polisetty - 016012477 <br/>
 
-Setup and run jenkins on a ec2 instance on aws
+*Setup and run jenkins on a ec2 instance on aws
 Launch an ec2 instance
 
 ![Ec2](https://user-images.githubusercontent.com/103618216/198853089-2cd9604b-2699-485c-9c9a-1d4c8a1f95e1.png)
